@@ -1,0 +1,26 @@
+.menu-navigation-basic {
+
+
+}
+
+.menu-navigation-basic a {
+    
+}
+
+.menu-navigation-basic a.selected {
+
+}
+
+.slicknav_menu {
+    display:none;
+}
+
+@media (max-width: 1024px) {
+    .menu-navigation-basic{
+        display:none;
+    }
+
+    .slicknav_menu {
+        display:block;
+    }
+}
